@@ -1,0 +1,298 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A bright and modern living room interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1724765440530-e3954ac2e61d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2Rlcm4lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjgxOTk4Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "cat-kitchen",
+      "description": "Desain dapur modern dan fungsional yang menjadi jantung rumah Anda.",
+      "imageUrl": "/images/dapur (1).jpg",
+      "imageHint": "modern wood kitchen"
+    },
+    {
+      "id": "cat-living",
+      "description": "Ciptakan ruang keluarga yang nyaman dan bergaya untuk berkumpul.",
+      "imageUrl": "/images/ruang keluarga (1).jpg",
+      "imageHint": "cozy livingroom"
+    },
+    {
+      "id": "cat-bedroom",
+      "description": "Kamar tidur yang tenang dan personal untuk istirahat maksimal.",
+      "imageUrl": "/images/kamar tidur (1).jpg",
+      "imageHint": "bunk bed"
+    },
+    {
+      "id": "cat-office",
+      "description": "Desain ruang kerja yang produktif dan inspiratif.",
+      "imageUrl": "/images/ruang kerja (1).jpg",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "cat-bathroom",
+      "description": "Interior yang dirancang untuk menghadirkan kenyamanan dan keindahan di setiap sudut ruang Anda.",
+      "imageUrl": "/images/gambar interior (1).jpg",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "cat-outdoor",
+      "description": "Temukan berbagai furnitur lain untuk melengkapi desain Anda.",
+      "imageUrl": "/images/furniture lain (1).png",
+      "imageHint": "elegant furniture"
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Minimalist kitchen with wooden accents.",
+      "imageUrl": "/images/dapur modern minimalis (1).jpg",
+      "imageHint": "minimalist kitchen"
+    },
+    {
+      "id": "portfolio-2",
+      "description": "Kantor pusat korporat modern.",
+      "imageUrl": "/images/kantor pusat korporat (1).jpg",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "portfolio-3",
+      "description": "Modern living room with a statement sofa.",
+      "imageUrl": "/images/ruang keluarga hangat (1)_.jpg",
+      "imageHint": "modern livingroom"
+    },
+    {
+      "id": "portfolio-4",
+      "description": "Compact and efficient kitchen design.",
+      "imageUrl": "/images/dapur efisien (1).jpg",
+      "imageHint": "compact kitchen"
+    },
+    {
+      "id": "portfolio-5",
+      "description": "Collaborative open office layout.",
+      "imageUrl": "/images/ruang kerja kolaboratif (1).jpg",
+      "imageHint": "open office"
+    },
+    {
+      "id": "portfolio-6",
+      "description": "Cozy bedroom with warm lighting.",
+      "imageUrl": "/images/kamar tidur nyaman (1).jpg",
+      "imageHint": "cozy bedroom"
+    },
+    {
+      "id": "portfolio-7",
+      "description": "Sleek kitchen with marble countertops.",
+      "imageUrl": "/images/dapur marmer mewah (1).jpg",
+      "imageHint": "marble kitchen"
+    },
+    {
+      "id": "portfolio-8",
+      "description": "Executive office with a city view.",
+      "imageUrl": "/images/kantor eksekutif (1).jpg",
+      "imageHint": "executive office"
+    },
+    {
+      "id": "portfolio-9",
+      "description": "Art-deco inspired living room.",
+      "imageUrl": "/images/ruang tamu art deco (1).jpg",
+      "imageHint": "artdeco livingroom"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A smiling customer.",
+      "imageUrl": "/images/avatar.jpg",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "A happy client.",
+      "imageUrl": "/images/avatar.jpg",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A satisfied homeowner.",
+      "imageUrl": "/images/avatar.jpg",
+      "imageHint": "satisfied person"
+    },
+    {
+      "id": "portfolio-1-slide-2",
+      "description": "Side view of minimalist kitchen",
+      "imageUrl": "/images/dapur modern minimalis (2).jpg",
+      "imageHint": "minimalist kitchen"
+    },
+    {
+      "id": "portfolio-1-slide-3",
+      "description": "Minimalist kitchen countertop",
+      "imageUrl": "/images/dapur modern minimalis (3)_.jpg",
+      "imageHint": "kitchen counter"
+    },
+    {
+      "id": "portfolio-2-slide-2",
+      "description": "Lounge area in a modern corporate office.",
+      "imageUrl": "/images/kantor pusat korporat (2)_.jpg",
+      "imageHint": "office lounge"
+    },
+    {
+      "id": "portfolio-2-slide-3",
+      "description": "Bright and airy corporate meeting room.",
+      "imageUrl": "/images/kantor pusat korporat (3).jpg",
+      "imageHint": "office meeting"
+    },
+    {
+      "id": "portfolio-3-slide-2",
+      "description": "Detail of a modern living room chair.",
+      "imageUrl": "/images/ruang keluarga hangat (2)_.jpg",
+      "imageHint": "livingroom chair"
+    },
+    {
+      "id": "portfolio-3-slide-3",
+      "description": "A stylish armchair in a bright living room.",
+      "imageUrl": "/images/ruang keluarga hangat (3)_.jpg",
+      "imageHint": "livingroom armchair"
+    },
+    {
+      "id": "portfolio-4-slide-2",
+      "description": "Compact kitchen storage",
+      "imageUrl": "/images/dapur efisien (2).jpeg",
+      "imageHint": "kitchen storage"
+    },
+    {
+      "id": "portfolio-4-slide-3",
+      "description": "Small kitchen appliance detail",
+      "imageUrl": "/images/dapur efisien (3).jpeg",
+      "imageHint": "kitchen appliance"
+    },
+    {
+      "id": "portfolio-5-slide-2",
+      "description": "A modern collaborative office space with various seating arrangements.",
+      "imageUrl": "/images/ruang kerja kolaboratif (2).jpg",
+      "imageHint": "collaborative office"
+    },
+    {
+      "id": "portfolio-5-slide-3",
+      "description": "A bright meeting room designed for team collaboration.",
+      "imageUrl": "/images/ruang kerja kolaboratif (3).jpg",
+      "imageHint": "office meeting"
+    },
+    {
+      "id": "portfolio-6-slide-2",
+      "description": "Cozy bedroom window",
+      "imageUrl": "/images/kamar tidur nyaman (2).jpg",
+      "imageHint": "bedroom window"
+    },
+    {
+      "id": "portfolio-6-slide-3",
+      "description": "Bedroom nightstand",
+      "imageUrl": "/images/kamar tidur nyaman (3).jpg",
+      "imageHint": "bedroom nightstand"
+    },
+    {
+      "id": "portfolio-7-slide-2",
+      "description": "Marble kitchen sink",
+      "imageUrl": "/images/dapur marmer mewah (2).jpg",
+      "imageHint": "marble sink"
+    },
+    {
+      "id": "portfolio-7-slide-3",
+      "description": "Marble kitchen island",
+      "imageUrl": "/images/dapur marmer mewah (3).jpg",
+      "imageHint": "marble island"
+    },
+    {
+      "id": "portfolio-8-slide-2",
+      "description": "Executive office desk detail",
+      "imageUrl": "/images/kantor eksekutif (2).jpg",
+      "imageHint": "executive desk"
+    },
+    {
+      "id": "portfolio-8-slide-3",
+      "description": "View from executive office",
+      "imageUrl": "/images/kantor eksekutif (3).jpg",
+      "imageHint": "office view"
+    },
+    {
+      "id": "portfolio-9-slide-2",
+      "description": "Art-deco sofa",
+      "imageUrl": "/images/ruang tamu art deco (2).jpg",
+      "imageHint": "artdeco sofa"
+    },
+    {
+      "id": "portfolio-9-slide-3",
+      "description": "Art-deco lighting",
+      "imageUrl": "/images/ruang tamu art deco (3).jpg",
+      "imageHint": "artdeco lighting"
+    },
+    {
+      "id": "cat-kitchen-slide-2",
+      "description": "Modern kitchen detail",
+      "imageUrl": "/images/dapur (2).jpg",
+      "imageHint": "kitchen detail"
+    },
+    {
+      "id": "cat-kitchen-slide-3",
+      "description": "Modern kitchen sink area",
+      "imageUrl": "/images/dapur (3).jpg",
+      "imageHint": "kitchen sink"
+    },
+    {
+      "id": "cat-living-slide-2",
+      "description": "Cozy living room fireplace",
+      "imageUrl": "/images/ruang keluarga (2).jpg",
+      "imageHint": "livingroom fireplace"
+    },
+    {
+      "id": "cat-living-slide-3",
+      "description": "Living room shelving",
+      "imageUrl": "/images/ruang keluarga (3).jpg",
+      "imageHint": "livingroom shelf"
+    },
+    {
+      "id": "cat-bedroom-slide-2",
+      "description": "Bunk bed ladder detail",
+      "imageUrl": "/images/kamar tidur (2).jpeg",
+      "imageHint": "bunk bed"
+    },
+    {
+      "id": "cat-bedroom-slide-3",
+      "description": "Bedroom with bunk beds for kids",
+      "imageUrl": "/images/kamar tidur (3).jpg",
+      "imageHint": "kids bedroom"
+    },
+    {
+      "id": "cat-office-slide-2",
+      "description": "Modern office meeting area",
+      "imageUrl": "/images/ruang kerja (2).jpg",
+      "imageHint": "office meeting"
+    },
+    {
+      "id": "cat-office-slide-3",
+      "description": "Individual workspace in a modern office",
+      "imageUrl": "/images/ruang kerja (3).jpg",
+      "imageHint": "office workspace"
+    },
+    {
+      "id": "cat-bathroom-slide-2",
+      "description": "Luxury bathroom with large tub",
+      "imageUrl": "/images/gambar interior (2).jpg",
+      "imageHint": "luxury bathtub"
+    },
+    {
+      "id": "cat-bathroom-slide-3",
+      "description": "Luxury bathroom shower",
+      "imageUrl": "/images/gambar interior (3).jpg",
+      "imageHint": "luxury shower"
+    },
+    {
+      "id": "cat-outdoor-slide-2",
+      "description": "Elegant patio furniture",
+      "imageUrl": "/images/furniture lain (2).jpeg",
+      "imageHint": "patio furniture"
+    },
+    {
+      "id": "cat-outdoor-slide-3",
+      "description": "Elegant furniture_",
+      "imageUrl": "/images/furniture lain (3).png",
+      "imageHint": "furniture view"
+    }
+  ]
+}
