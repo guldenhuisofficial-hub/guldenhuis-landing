@@ -1,4 +1,4 @@
-import type {Metadata} from 'next';
+import type { Metadata } from 'next';
 import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 import { cn } from '@/lib/utils';
@@ -6,6 +6,12 @@ import { cn } from '@/lib/utils';
 export const metadata: Metadata = {
   title: 'GuldenHuis',
   description: 'Premium Interior Design and Renovation Services',
+
+  verification: {
+    other: {
+      'facebook-domain-verification': 'urO6ihqonldqvnp5lkyu355ohelx7o',
+    },
+  },
 };
 
 export default function RootLayout({
