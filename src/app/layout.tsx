@@ -6,12 +6,6 @@ import { cn } from '@/lib/utils';
 export const metadata: Metadata = {
   title: 'GuldenHuis',
   description: 'Premium Interior Design and Renovation Services',
-
-  verification: {
-    other: {
-      'facebook-domain-verification': 'urO6ihqonldqvnp5lkyu355ohelx7o',
-    },
-  },
 };
 
 export default function RootLayout({
@@ -23,6 +17,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+
+        <meta
+          name="facebook-domain-verification"
+          content="ur06ihqonldqvnp5lkyu355ohelx7o"
+        />
+
         {/* Google Tag Manager */}
         <script
           dangerouslySetInnerHTML={{
